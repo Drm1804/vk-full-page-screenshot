@@ -1,0 +1,21 @@
+{
+  "name": "vk-full-page-screenshot",
+  "description": "������, � ������� �������� ����� ������� �������� � VK �������.",
+  "main": "index.js",
+  "authors": [
+    "Drm-a <drm-a@yandex.ru>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/Drm1804/vk-full-page-screenshot",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}

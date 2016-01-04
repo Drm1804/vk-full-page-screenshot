@@ -1,0 +1,22 @@
+{
+  "name": "vk-full-page-screenshot",
+  "version": "1.0.0",
+  "description": "������, � ������� �������� ����� ������� �������� � VK �������.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Drm1804/vk-full-page-screenshot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Drm1804/vk-full-page-screenshot/issues"
+  },
+  "homepage": "https://github.com/Drm1804/vk-full-page-screenshot#readme",
+  "devDependencies": {
+    "phantomjs": "^1.9.19"
+  }
+}
